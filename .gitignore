@@ -1,0 +1,9 @@
+# Ignore Visual Studio solution and project files
+ClipCloudProto.sln
+ClipCloudProto.vcxproj
+ClipCloudProto.vcxproj.filters
+ClipCloudProto.vcxproj.user
+
+# Ignore specific directories
+ClipCloudProto/
+x64/
